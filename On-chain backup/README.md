@@ -8,6 +8,8 @@
 | 0xABCDE      | 0.00041      | 0xABCDE....6E234 |
 | 0x1F223 | 1.1       | 0x56789....UE2v4 |
 
+![ExampleFlow](https://i.imgur.com/rKp44VX.png)
+
 Periodic snapshots of current balances/asset holders, hashed, and then applied into a transaction on the chain with the longest duration of immutability (basically the hardest in the room to bs).
 
 # How It Works - Example using a team who has an ERC-20 token.
