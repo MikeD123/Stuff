@@ -53,6 +53,7 @@ This rich ecosystem curation and collaboration should result in exponential resi
 * MyCrypto for security. Phishing and things like that probably come around so they would be good pillars for hard coded curated suggestions by them as trusted reputable voices in the ecosystem for that intent. Like you swap with uniswap, security with mycrypto or metamask. Etc...
 * ENS for anchoring and its extensibility.
 * Any "messenger" I think really. Zapper is another example and originally DeFi Zap was something I loved because they implemented something similar "longWBTC.defizap.eth
+* Come to think of it, pretty much all non-custodial wallets I think. They could build around being secure search engines more than being a wallet. Sort of a different leap. 
 
 ## Conclusion
 
