@@ -22,8 +22,9 @@ Ok, so you now how before I asked you to throw everything about addresses and st
 
 So instead of going to uniswap to convert DAI to WBTC, I send DAI to a contract address which does one thing and only one thing. It takes DAI and trades it on Uniswap for WBTC and sends the proceeds (after gas) back to whoever sent the DAI. Simple enough. Now lets say we repeat this across all teams specializing in different intents (swap, earn, borrow, trade, lend, save, etc…) we end up with a broad “dictionary” of pre-defined secure intents for users. Like bookmarks available to help them learn financial primitives. We wrap that into natural language domain structures, e.g. verbNoun following other similar intent systems like Siri, Alexa, Google home. End result, a bunch of ENS addresses!
 
-“Deposit.ToSavings.eth” (this deposits into compound, and returns CUSDC)
-“dai.toBitcoin.eth” (converts DAI to WBTC as outlined in the example above)
+Example Language
+* “Deposit.ToSavings.eth” (this deposits into compound, and returns CUSDC)
+* “dai.toBitcoin.eth” (converts DAI to WBTC as outlined in the example above)
 
 ![examplesearch](https://i.imgur.com/oVWOeg2.gif)
 
