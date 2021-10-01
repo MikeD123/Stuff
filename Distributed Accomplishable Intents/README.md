@@ -58,3 +58,5 @@ This rich ecosystem curation and collaboration should result in exponential resi
 Not sure if ok boomer, or lost my mind... I feel like this would be the most value add a single core protocol could add that kicks value all the way back up the stack of dapps, users, and other chains would get value from.
 
 Seems like coupling this with [RadSpec](https://github.com/aragon/radspec) you would start getting some very cool natural language chat going with your wallet and everyone could have their own personal financial assistant. It would mean that people wouldn't really need to be developers, but more assemble legos and then name them. Take a clip on the contract, and that's that. Feels like that would be a super cool future! Alright, I'm tired now and losing my mind in lockdown evidently!
+
+I welcome any single better (macro) strategy that a chain could take that would be more beneficial than this? 
