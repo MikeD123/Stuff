@@ -60,4 +60,7 @@ Not sure if ok boomer, or lost my mind... I feel like this would be the most val
 
 Seems like coupling this with [RadSpec](https://github.com/aragon/radspec) you would start getting some very cool natural language chat going with your wallet and everyone could have their own personal financial assistant. It would mean that people wouldn't really need to be developers, but more assemble legos and then name them. Take a clip on the contract, and that's that. Feels like that would be a super cool future! Alright, I'm tired now and losing my mind in lockdown evidently!
 
-I welcome any single better (macro) strategy that a chain could take that would be more beneficial than this? 
+I welcome any single better (macro) strategy that a chain could take that would be more beneficial than this?
+
+## After this what happens?
+I think this will be a good defense for Ethereum in that environment, but it will likely need to then start backing up its own states onto somewhere. That would be where it would be good to have it hashed and stored on bitcoin. That will be the insurance policy to reset state from because its holds the longest duration of immutability.
