@@ -1,5 +1,6 @@
 ### Distributed Accomplishable Intents
-#### This is the open-source silver bullet to maintaining resiliency in a multichain world. Protocols and gas wars will borrow users more and more, and if Ethereum becomes too deflationary, it will lose by pricing out new developers. Coupling this with sharky well funded challengers circling, then mixing this with community division over protocol changes, layer 2 solutions, etc... Division in distributed systems where the proximity to switch systems is so close, it can "decay" from its original state. This is the single best solution I could think of to maintain the monetary policy from EIP-1559, but make up for what would've priced out future users/developers.
+
+tl;dr - We're going to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
 
 Can I borrow your brain for a second? I need you to try and wipe the idea of the address bar as a way to send and receive assets. Pasting in the janky addresses. Going through triple checking a bunch a characters to make sure they’re correct, then finally pulling the trigger and clicking confirm.
 
@@ -62,6 +63,3 @@ Not sure if ok boomer, or lost my mind... I feel like this would be the most val
 Seems like coupling this with [RadSpec](https://github.com/aragon/radspec) you would start getting some very cool natural language chat going with your wallet and everyone could have their own personal financial assistant. It would mean that people wouldn't really need to be developers, but more assemble legos and then name them. Take a clip on the contract, and that's that. Feels like that would be a super cool future! Alright, I'm tired now and losing my mind in lockdown evidently!
 
 I welcome any single better (macro) strategy that a chain could take that would be more beneficial than this?
-
-## After this what happens?
-I think this will be a good defense for Ethereum in that environment, but it will likely need to then start backing up its own states onto somewhere. That would be where it would be good to have it hashed and stored on bitcoin. That will be the insurance policy to reset state from because its holds the longest duration of immutability.
