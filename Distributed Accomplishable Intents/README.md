@@ -1,6 +1,5 @@
 ### Distributed Accomplishable Intents
-
-tl;dr - We're going to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
+#### tl;dr - We're should aim to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
 
 Can I borrow your brain for a second? I need you to try and wipe the idea of the address bar as a way to send and receive assets. Pasting in the janky addresses. Going through triple checking a bunch a characters to make sure they’re correct, then finally pulling the trigger and clicking confirm.
 
