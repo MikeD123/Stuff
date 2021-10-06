@@ -1,5 +1,5 @@
 ### Distributed Accomplishable Intents
-#### tl;dr - We’re should aim to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
+#### tl;dr - We should aim to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
 
 If you are looking for a simple mental model think of it this way…
 
