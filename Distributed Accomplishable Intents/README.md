@@ -1,5 +1,10 @@
 ### Distributed Accomplishable Intents
-#### tl;dr - We're should aim to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
+#### We're should aim to turn the address bar into a search engine. Encoding the function calls and search terms for desired outcome into a natural language system.
+
+If you are looking for a simple mental model think of it this way…
+
+* New users get something like an Amazon 1 click checkout for Ethereum smart contract interactions.
+* New users get a familiar “Google” like interface UX/UI flow.
 
 Can I borrow your brain for a second? I need you to try and wipe the idea of the address bar as a way to send and receive assets. Pasting in the janky addresses. Going through triple checking a bunch a characters to make sure they’re correct, then finally pulling the trigger and clicking confirm.
 
